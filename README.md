@@ -1,4 +1,4 @@
-# IOT
+# IOT Architecture
 IoT sisteminin yapı taşlarını ve bunların verileri toplamak, depolamak ve işlemek için nasıl bağlandıklarını gösteren IoT mimari şeması.
 
 IoT mimarisini geliştirirken, her bileşenin birlikte çalışmasını saglayan tutarlı bir yapıda olması, yeni işlevlerin eklenmesi esnekliği ve mevcutta kullanılan BT sistemleri ve uygulamaları ile entegrasyona imkanı tanıması gibi konulara dikkat edilmesi gerekir.
